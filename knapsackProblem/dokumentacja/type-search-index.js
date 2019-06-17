@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"knapsackProblem","l":"Algorithms"},{"p":"knapsackProblem","l":"BruteForce"},{"p":"knapsackProblem","l":"Greedy"},{"p":"knapsackProblem","l":"Instance"},{"p":"knapsackProblem","l":"Item"},{"p":"knapsackProblem","l":"RandomSearch"},{"p":"knapsackProblem","l":"Solution"}]
